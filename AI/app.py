@@ -78,3 +78,4 @@ def main():
 if __name__ == "__main__":
     main()
     # Run the app with the command streamlit run app.py in the terminal
+    
